@@ -41,19 +41,20 @@ border-image: auto;
 .nav-item{
     text-decoration: none;
 } 
-p {
+.piepag {
     margin-bottom: 3em;
+    margin-left: 33em;
 }
 
 .foto{
    display: flex;
    margin-left: 1em;
    align-items: center;
-   }
+}
 
 .foto img {
   
-    margin-left: 6em;
+    margin-left: 3em;
     margin-bottom: 3em;
 }
 
@@ -64,8 +65,21 @@ hr{
     display: flex;
     justify-content: space-between;
 }
+.btn{
+    width: 20%;
+    align-items: center;
+     margin-left: 34em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
 
+.hab{
+    margin-bottom: 5em;
 
+}
+ul{
+    margin-bottom: 5em;
+}
 
 
 .table, tr, td {
