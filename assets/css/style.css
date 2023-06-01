@@ -8,7 +8,10 @@ body {
      color: azure;   
     }
 
-h1{ color: aliceblue;}
+h1{ color: aliceblue;
+    font-size: 800;
+
+}
 h2{ color: aliceblue;}
 h3{ color: aliceblue;}
 h4{ color: aliceblue;}
@@ -30,6 +33,11 @@ h3{
 h4{
     margin-top: 5em;
 }
+.land{
+background-image: url(../img/backg.jpg);
+border-image: auto;
+
+}
 .nav-item{
     text-decoration: none;
 } 
@@ -46,14 +54,16 @@ p {
 .foto img {
   
     margin-left: 6em;
+    margin-bottom: 3em;
 }
 
 hr{
     border: 3px solid #fefefe;
 }
-.a{
-    margin-left: 3em;
-} 
+.targets {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
