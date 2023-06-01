@@ -1,0 +1,70 @@
+
+
+
+
+body {
+     font-family: 'Poppins', sans-serif;
+     background-color: rgb(84, 86, 80); 
+     color: azure;   
+    }
+
+h1{ color: aliceblue;}
+h2{ color: aliceblue;}
+h3{ color: aliceblue;}
+h4{ color: aliceblue;}
+
+h1{
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+h2{
+    margin-left: 1em;
+  
+}
+h3{
+
+    margin-top: 3em;
+    
+}
+h4{
+    margin-top: 5em;
+    
+
+}
+p {
+    margin-bottom: 3em;
+}
+
+.foto{
+   display: flex;
+   margin-left: 1em;
+   align-items: center;
+   }
+
+.foto img {
+  
+    margin-left: 6em;
+}
+
+hr{
+    border: 3px solid #fefefe;
+}
+.a{
+    margin-left: 3em;
+} 
+
+
+
+
+.table, tr, td {
+    border: 3px solid rgb(7, 7, 7);
+    border-collapse: collapse;
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+
+}
+
+
+
